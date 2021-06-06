@@ -1,0 +1,9 @@
+[submodule "EmporioLambda-BE"]
+	path = EmporioLambda-BE
+	url = https://github.com/OmicronSwe/EmporioLambda-BE.git
+[submodule "EmporioLambda-FE"]
+	path = EmporioLambda-FE
+	url = https://github.com/OmicronSwe/EmporioLambda-FE.git
+[submodule "Documentazione"]
+	path = Documentazione
+	url = https://github.com/Omicron-Team/Documentazione.git
